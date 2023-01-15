@@ -1,5 +1,8 @@
 // Mary Rose's JavaScript Homework
 
+// This comment was made from a cloned repository, in the homework-comments branch
+
+
 // 1. Write an if/else statement
 var APPLE_QUANTITY = 5;
 
